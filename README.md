@@ -1,1 +1,1 @@
-# Geogw12Lab7.github.io
+# https://Geogw12Lab7.github.io
